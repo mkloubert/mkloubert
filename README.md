@@ -125,8 +125,8 @@ class MarcelKloubert {
             "Visual Studio Code", "WebStorm"
         ],
         "_misc": [
-            "Firebase", "GNU/Linux", "OSS", "REST APIs", "Scrum / Agile",
-            "VB.NET"
+            "Firebase", "GNU/Linux", "Jira", "OSS", "REST APIs",
+            "Scrum / Agile", "VB.NET"
         ]
     };
     public readonly twitter = "@mjkloubert";
