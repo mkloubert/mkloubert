@@ -97,6 +97,7 @@ Thats me in TypeScript:
 
 ```typescript
 class MarcelKloubert {
+    public readonly birthday = new Date();
     public readonly name = "Marcel Kloubert";
     public readonly skills = {
         "architecture": [
@@ -138,6 +139,9 @@ class MarcelKloubert {
 }
 
 const me = new MarcelKloubert();
+
+// 1979
+console.log( me.birthday.getFullYear() );
 ```
 
 # :point_down: My pinned repos :point_down:
