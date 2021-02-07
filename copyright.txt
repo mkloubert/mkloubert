@@ -1,0 +1,8 @@
+* img folder:
+  - dotnet-original.svg: https://de.wikipedia.org/wiki/Datei:.NET_Core_Logo.svg
+  - kubernetes-original: https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg
+  - material_ui-original.svg: https://material-ui.com/
+  - matrix.webp: https://i.giphy.com/media/mSXSC0vivvygw/giphy.webp
+  - nodejs-original.svg: https://de.wikipedia.org/wiki/Datei:Node.js_logo.svg
+  - spring-original.svg: https://spring.io/trademarks
+  - others: https://github.com/MacroPower/MacroPower
