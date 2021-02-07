@@ -103,8 +103,8 @@ class MarcelKloubert {
             "Microservices", "MVC", "serverless", "SPA"
         ],
         "backend": [
-            "C#", "Express.js", "Go", "Java", "Kotlin", "Node.js", "PHP",
-            "Spring", "Symfony", "TypeScript", "Vert.x", "WCF"
+            ".NET (+ Core)", "C#", "Express.js", "Go", "Java", "Kotlin",
+            "Node.js", "PHP", "Spring", "Symfony", "TypeScript", "Vert.x", "WCF"
         ],
         "database": [
             "Mongo DB", "MySQL", "PostgreSQL", "SQLite 3", "T-SQL"
