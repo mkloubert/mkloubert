@@ -93,7 +93,7 @@ These are some things I really like:
   </tr>
 </table>
 
-These are my all skills:
+Thats me in TypeScript:
 
 ```typescript
 class MarcelKloubert {
