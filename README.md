@@ -3,7 +3,7 @@
 I am a senior full stack developer.<br />
 <br />
 
-<center><img src="./img/matrix.webp" width="1000" height="432" title="I love Matrix!!!" alt="I love Matrix!!!" /></center><br />
+<center><img src="./img/matrix.webp" width="100%" style="max-width: 1000px" title="I love Matrix!!!" alt="I love Matrix!!!" /></center><br />
 
 Currently I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/) and [Spring](https://spring.io/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
 
