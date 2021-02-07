@@ -117,7 +117,7 @@ class MarcelKloubert {
         ],
         "frontend": [
             "Android", "Bootstrap", "HTML", "JavaScript", "React (.js + Native)",
-            "Reporting Services", "SASS", "Windows Forms", "WPF"
+            "Reporting Services", "SASS", "Windows Forms", "WPF", "Vue"
         ],
         "tools": [
             "Android Studio", "BitBucket", "git", "GitHub", "GitLab",
