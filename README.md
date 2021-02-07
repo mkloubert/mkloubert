@@ -110,7 +110,7 @@ class MarcelKloubert {
             "Mongo DB", "MySQL", "PostgreSQL", "SQLite 3", "T-SQL"
         ],
         "devops": [
-            "Azure (+ DevOps)", "Docker", "GitHub Actions", "nginx"
+            "Azure", "Docker", "GitHub Actions", "Kubernetes", "nginx"
         ],
         "e-commerce": [
             "Magento", "OXID", "Shopware"
