@@ -103,7 +103,7 @@ class MarcelKloubert {
             "Microservices", "MVC", "serverless", "SPA"
         ],
         "backend": [
-            ".NET (+ Core)", "C#", "Express.js", "Go", "Java", "Kotlin",
+            ".NET (+ Core)", "C#", "Deno", "Express.js", "Go", "Java", "Kotlin",
             "Node.js", "PHP", "Spring", "Symfony", "TypeScript", "Vert.x", "WCF"
         ],
         "database": [
