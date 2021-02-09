@@ -130,8 +130,8 @@ class MarcelKloubert {
             "Scrum / Agile", "VB.NET"
         ]
     };
-    public readonly twitter = "@mjkloubert";
-    public readonly username = "mkloubert";
+    public twitter = "@mjkloubert";
+    public username = "mkloubert";
 
     public toString() {
         return this.name;
