@@ -1,15 +1,15 @@
-### :wave: Hello there! My name is Marcel Kloubert
+### :wave: Hello there!
 
 I am a senior full stack developer.<br />
 <br />
 
 <center><img src="./img/matrix.webp" width="100%" style="max-width: 1000px" title="I love Matrix!!!" alt="I love Matrix!!!" /></center><br />
 
-Currently I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/) and [Spring](https://spring.io/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
+Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/) and [Spring](https://spring.io/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
 
-- :office: &nbsp;I am currently working at **[e.GO Digital](https://github.com/egodigital)**
+- :office: &nbsp;I am working at **[e.GO Digital](https://github.com/egodigital)**
 - :seedling: &nbsp;I am currently learning **[Swift UI](https://developer.apple.com/xcode/swiftui/)**
-- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
+- :mailbox: &nbsp;Try to ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
 - :computer: &nbsp;Connect with me on **[Twitter](https://twitter.com/mjkloubert)**
 
 These are some things I really like:
@@ -97,27 +97,28 @@ Thats me in TypeScript:
 
 ```typescript
 class MarcelKloubert {
+    public readonly birthday = new Date();
     public readonly name = "Marcel Kloubert";
     public readonly skills = {
         "architecture": [
             "Microservices", "MVC", "serverless", "SPA"
         ],
         "backend": [
-            "C#", "Express.js", "Go", "Java", "Kotlin", "Node.js", "PHP",
-            "Spring", "Symfony", "TypeScript", "Vert.x", "WCF"
+            ".NET (+ Core)", "C#", "Deno", "Express.js", "Go", "Java", "Kotlin",
+            "Node.js", "PHP", "Spring", "Symfony", "TypeScript", "Vert.x", "WCF"
         ],
         "database": [
             "Mongo DB", "MySQL", "PostgreSQL", "SQLite 3", "T-SQL"
         ],
         "devops": [
-            "Azure (+ Devops)", "Docker", "GitHub Actions", "nginx"
+            "Azure", "Docker", "GitHub Actions", "Kubernetes", "nginx"
         ],
         "e-commerce": [
             "Magento", "OXID", "Shopware"
         ],
         "frontend": [
             "Android", "Bootstrap", "HTML", "JavaScript", "React (.js + Native)",
-            "Reporting Services", "SASS", "Windows Forms", "WPF"
+            "Reporting Services", "SASS", "Windows Forms", "WPF", "Vue"
         ],
         "tools": [
             "Android Studio", "BitBucket", "git", "GitHub", "GitLab",
@@ -129,8 +130,8 @@ class MarcelKloubert {
             "Scrum / Agile", "VB.NET"
         ]
     };
-    public readonly twitter = "@mjkloubert";
-    public readonly username = "mkloubert";
+    public twitter = "@mjkloubert";
+    public username = "mkloubert";
 
     public toString() {
         return this.name;
@@ -138,6 +139,9 @@ class MarcelKloubert {
 }
 
 const me = new MarcelKloubert();
+
+// 1979
+console.log( me.birthday.getFullYear() );
 ```
 
 # :point_down: My pinned repos :point_down:
