@@ -122,7 +122,7 @@ class MarcelKloubert {
         "tools": [
             "Android Studio", "BitBucket", "git", "GitHub", "GitLab",
             "IntelliJ", "PhpStorm", "Redis", "Visual Studio",
-            "Visual Studio Code", "WebStorm"
+            "Visual Studio Code", "WebStorm", "Xcode"
         ],
         "_misc": [
             "Firebase", "GNU/Linux", "Jira", "OSS", "REST APIs",
