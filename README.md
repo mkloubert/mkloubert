@@ -7,7 +7,7 @@ I am a senior full stack developer.<br />
 
 Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/) and [Spring](https://spring.io/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
 
-- :office: &nbsp;I am working at **[e.GO Digital](https://github.com/egodigital)**
+- :office: &nbsp;I am working at **[e.GO Mobile](https://github.com/egomobile)**
 - :seedling: &nbsp;I am currently learning **[Swift UI](https://developer.apple.com/xcode/swiftui/)**
 - :mailbox: &nbsp;Try to ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
 - :computer: &nbsp;Connect with me on **[Twitter](https://twitter.com/mjkloubert)**
