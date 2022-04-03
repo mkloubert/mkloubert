@@ -130,7 +130,7 @@ class MarcelKloubert {
             "Scrum / Agile", "VB.NET"
         ]
     };
-    public twitter = "@mjkloubert";
+
     public username = "mkloubert";
 
     public toString() {
