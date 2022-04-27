@@ -1,16 +1,15 @@
 ### :wave: Hello there!
 
-I am a senior full stack developer.<br />
+I am a Senior FullStack Developer.<br />
 <br />
 
 <center><img src="./img/matrix.webp" width="100%" style="max-width: 1000px" title="I love Matrix!!!" alt="I love Matrix!!!" /></center><br />
 
-Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/) and [Spring](https://spring.io/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
+Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/), [.NET](https://dotnet.microsoft.com/en-us/) and [Go](https://go.dev/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
 
 - :office: &nbsp;I am working at **[e.GO Mobile](https://github.com/egomobile)**
-- :seedling: &nbsp;I am currently learning **[Swift UI](https://developer.apple.com/xcode/swiftui/)**
+- :seedling: &nbsp;I am currently learning **[Python](https://www.python.org/)** and **[Flutter](https://flutter.dev/)**
 - :mailbox: &nbsp;Try to ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
-- :computer: &nbsp;Connect with me on **[Twitter](https://twitter.com/mjkloubert)**
 
 These are some things I really like:
 
@@ -143,5 +142,7 @@ const me = new MarcelKloubert();
 // 1979
 console.log( me.birthday.getFullYear() );
 ```
+
+I would be happy if you [support by work](https://marcel.coffee/).
 
 # :point_down: My pinned repos :point_down:
