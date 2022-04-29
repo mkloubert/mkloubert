@@ -11,6 +11,8 @@ Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/),
 - :seedling: &nbsp;I am currently learning **[Python](https://www.python.org/)** and **[Flutter](https://flutter.dev/)**
 - :mailbox: &nbsp;Try to ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
 
+#### Skills
+
 These are some things I really like:
 
 <table>
@@ -125,8 +127,8 @@ class MarcelKloubert {
             "Visual Studio Code", "WebStorm", "Xcode"
         ],
         "_misc": [
-            "Firebase", "GNU/Linux", "Jira", "OSS", "REST APIs",
-            "Scrum / Agile", "VB.NET"
+            "Firebase", "GNU/Linux", "Jira", "OSS", "Python",
+            "REST APIs", "Scrum / Agile", "VB.NET"
         ]
     };
 
@@ -142,6 +144,15 @@ const me = new MarcelKloubert();
 // 1979
 console.log( me.birthday.getFullYear() );
 ```
+
+#### Interesting projects
+
+| Name  | Description  | Notes |
+|-------|--------------|-------|
+| [js-promises](https://github.com/mkloubert/js-promises) | Helpers for promises, which work in Node and the browser. | JavaScript / TypeScript, Browser, Node.js |
+| [js-strings](https://github.com/mkloubert/js-strings) | String helpers, which work in Node and the browser. | JavaScript / TypeScript, Browser, Node.js |
+
+#### Support
 
 I would be happy if you [support by work](https://marcel.coffee/).
 
