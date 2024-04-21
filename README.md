@@ -7,7 +7,6 @@ I am a Senior FullStack Developer.<br />
 
 Currently, I do a lot of stuff in [TypeScript](https://www.typescriptlang.org/), [.NET](https://dotnet.microsoft.com/en-us/) and [Go](https://go.dev/), but also in [Docker](https://www.docker.com/) and [React.js](https://reactjs.org/) (+ [Native](https://reactnative.dev/)).
 
-- :office: &nbsp;I am working at **[e.GO Mobile](https://github.com/egomobile)**
 - :seedling: &nbsp;I am currently learning **[Python](https://www.python.org/)** and **[Flutter](https://flutter.dev/)**
 - :mailbox: &nbsp;Try to ask me anything on my **[issues page](https://github.com/mkloubert/mkloubert/issues)**
 
